@@ -22,3 +22,7 @@ Do churn rates vary depending on the type of service provided?
 Which service types generate the highest profits?
 What features and services contribute most to profitability?
 Additionally, I will explore other insights and questions that emerge during the analysis.
+
+
+
+##Source: Kaggle
